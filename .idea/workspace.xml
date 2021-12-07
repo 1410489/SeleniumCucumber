@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f761900-86a7-49cd-853b-92c754b9c3a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Definitions/CarritoDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Definitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/Carrito.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoSelenium.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Definitons/Hooks.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Support/runtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Support/runtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PageObjetcs/MenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjetcs/MenuPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f761900-86a7-49cd-853b-92c754b9c3a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjetcs/CapturarDatosTarjetaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjetcs/CheckCreditPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Definitions/CarritoDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Definitions/CarritoDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Definitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Definitions/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PageObjetcs/MenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PageObjetcs/MenuPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/feature/Carrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/feature/Carrito.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Definitions/CarritoDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Definitions/CarritoDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Definitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Definitions/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/feature/Carrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/feature/Carrito.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +47,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/drivers" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">

@@ -10,9 +10,12 @@ public class Hooks {
 
     @Before
     public static void setUp(){
+        //incilizar el proceso para ubicar nuestro drive
         System.setProperty("webdriver.chrome.driver","src/test/resources/drivers/chromedriver.exe");
        // System.setProperty("webdriver.chrome.driver","src/test/resources/drivers/chromedriver");
+        //inicia
         driver = new ChromeDriver();
+        //maximiza
         driver.manage().window().maximize();
     }
 
@@ -21,6 +24,7 @@ public class Hooks {
 
     @After
     public static void tearDown (){
+        //limpiar las cookies
         driver.manage().deleteAllCookies();
         //driver.close();
     }

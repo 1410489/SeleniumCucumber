@@ -5,4 +5,12 @@ Feature: Comprar articulo con nuna tarjeta de Credito
 
   Scenario: Comprar un solo producto
     Given la pagina esta estable
+    When doy click en generar tarjeta
+    And capturamos datos de la tarjeta
+    And capturamos el cvv de la tarjeta
+    And capturamos la fecha de la tarjeta
+    And capturamos el monto disponible de la tarjeta
+    When doy click en Check Credit
+    And ingreso el dato de la tarjeta y doy click
+
 
